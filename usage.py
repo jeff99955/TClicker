@@ -4,8 +4,7 @@ import time
 from multiprocessing.pool import ThreadPool
 import json
 
-_Auto_Accept_On = False
-num_of_process = 2  
+
 
 
 def run_as_admin(argv=None, debug=False):
