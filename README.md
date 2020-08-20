@@ -1,0 +1,2 @@
+# TClicker
+Twitch auto clicker
